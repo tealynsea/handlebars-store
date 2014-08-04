@@ -1,0 +1,11 @@
+#product-container {
+
+	border: 2px solid black;
+}
+
+.product {
+
+	background-color: grey;
+	border: 1px solid black;
+}
+
